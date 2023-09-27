@@ -8,7 +8,7 @@ include "db/function.php";
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Tabel Buku</title>
+	<title>Buku</title>
 	<link rel="icon" href="assets/icon/favicon.ico" type="image/x-icon">
 
 	<link rel="stylesheet" href="css/styles.css">
