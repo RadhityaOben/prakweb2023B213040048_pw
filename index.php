@@ -11,11 +11,6 @@ include "db/function.php";
 	<title>Buku</title>
 	<link rel="icon" href="assets/icon/favicon.ico" type="image/x-icon">
 
-	<link rel="stylesheet" href="css/styles.css">
-	<link rel="stylesheet" href="css/custom-styles.css">
-
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
-	<link href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" rel="stylesheet">
 </head>
 
 <body>
@@ -57,17 +52,6 @@ include "db/function.php";
 	</div>
 
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
-	<script src="assets/js/scripts.js"></script>
-	<script></script>
-
-	<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
-	<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-
-	<script>
-		$(document).ready(function() {
-			$('#itemTable').DataTable();
-		});
-	</script>
 
 </body>
 
