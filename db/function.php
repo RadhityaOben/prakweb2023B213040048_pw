@@ -3,7 +3,7 @@
 function connect()
 {
 	// Connect to Database
-	$connect = mysqli_connect('localhost', 'root', '', 'prakweb2023b_213040048');
+	$connect = mysqli_connect('localhost', 'root', '', 'prakweb_2023_b_213040048');
 	return $connect;
 }
 
